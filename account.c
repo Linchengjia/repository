@@ -2,6 +2,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
+//git实验副本
+//
+//看看改变了多少
+
+
 //线程运行函数
 
 void* th_fn(void *arg)
